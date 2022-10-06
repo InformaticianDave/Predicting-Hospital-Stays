@@ -7,8 +7,14 @@ The objective is to precisely estimate the Length of Stay for each patient on an
 
 Results:
 LogisticRegrsssion: 38.70%
+
 MLP Classifier: 41.92%
+
 RandomForestClassifier: 39.75%
+
 GaussianNB: 10.59%
+
 KNeighborsClassifier: 32.84%
+
 Decision Tree Classifier: 30.13%
+
